@@ -2,6 +2,6 @@ hello i a red cow
 i a domestic animal
 leg is deleted
 i call moo moo
-i give milk
+milk is changed
 beef is testy
 beef burger is good 
