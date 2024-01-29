@@ -1,6 +1,6 @@
 hello i a red cow
 i a domestic animal
-my leg is 4
+leg is deleted
 i call moo moo
 i give milk
 beef is testy
